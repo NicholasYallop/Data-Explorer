@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "c5a056da-e339-4481-9ce5-df06df886208",
+		"name": "IS2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "18808445",
+		"_collection_link": "https://universal-equinox-333176.postman.co/workspace/My-Workspace~141403ee-55c7-42b6-8d53-2ebc628d9f9c/collection/18808445-c5a056da-e339-4481-9ce5-df06df886208?action=share&source=collection_link&creator=18808445"
+	},
+	"item": [
+		{
+			"name": "GetPolicy",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllPolicies",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PostPolicy",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Export",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
